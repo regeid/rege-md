@@ -11,7 +11,7 @@ Standing on the [Baileys](https://github.com/WhiskeySockets/Baileys) Library.
 Install package using npm
 
 ```
-npm install regeid
+npm install rege-md
 ```
 
 Then import your code
@@ -19,13 +19,13 @@ Then import your code
 Use JS Module
 
 ```ts
-import * as whatsapp from "regeid";
+import * as whatsapp from "rege-md";
 ```
 
 or use CommonJS
 
 ```ts
-const whatsapp = require("regeid");
+const whatsapp = require("rege-md");
 ```
 
 ## Session Usage/Examples
@@ -211,12 +211,12 @@ whatsapp.setCredentialsDir("my_custom_dir");
 
 Set custom Browser
 ```ts
-// default browser is regeidS
+// default browser is rege-mdS
 whatsapp.setBrowser("macOS");
 // or : custom your name
 ```
 
 ## Authors
 
-- [@regeid](https://www.github.com/regeid)
+- [@rege](https://www.github.com/regeid)
 
